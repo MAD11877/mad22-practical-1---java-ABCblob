@@ -18,7 +18,7 @@ public class Question5
      *     > 3
      *     > 4
      *     4
-     * ..
+     * ...
      *    e.g.
      *     > 4
      *     > 2
